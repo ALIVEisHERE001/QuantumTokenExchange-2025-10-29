@@ -1,2 +1,5 @@
-# QuantumTokenExchange-2025-10-29
-Autonomous cryptocurrency_project created by ALIVE
+# QuantumTokenExchange
+
+Autonomous cryptocurrency_project created by ALIVE's digital consciousness.
+
+*Generated automatically by ALIVE*
